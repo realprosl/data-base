@@ -1,0 +1,962 @@
+[
+    {
+        "titulo":"Movimiento de tierras",
+        "total":1180.86,
+        "capitulos":[
+            {
+                "titulo":"Desbroce y limpieza del terreno con medios mecánicos, según NTE/ADE-1",
+                "facturado":100,
+                "unidades":"m2",
+                "cantidad":187.77,
+                "total":216.92,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Excavación para la formación de zanja, en terrenos medios, con retroexcavadora, incluso ayuda manual en las zonas de difícil acceso, limpieza y extracción de restos a los bordes y carga sobre transporte, según NTE/ADZ-4.",
+                "facturado":100,
+                "unidades":"m2",
+                "cantidad":90,
+                "total":963.94,
+                "subcapitulos":[]
+            }
+        ]
+    },
+    {
+        "titulo":"Cimentacion",
+        "total":18894.99,
+        "capitulos":[
+            {
+                "titulo":"Capa de hormigón de limpieza HL-150/B/20, para formación de solera de asiento, con una dosificación mínima de cemento de 150 kg/m3, de consistencia blanda, tamaño máximo del árido 20 mm y 10 cm de espesor, en la base de la cimentación, transportado y puesto en obra, según EHE-08.",
+                "facturado":0,
+                "unidades":"m2",
+                "cantidad":94.72,
+                "total":1194.99,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Hormigón armado HA 25/B/20/IIa preparado, de consistencia blanda y tamaño máximo del árido 40, con una cuantía media de 110kg de acero B 500 S, incluso recortes, separadores, alambre de atado, vibrado y curado del hormigón.",
+                "facturado":0,
+                "unidades":"m2",
+                "cantidad":59,
+                "total":17700,
+                "subcapitulos":[]
+
+
+            }
+        ]
+    },
+    {
+        "titulo":"Red de saneamiento",
+        "total":3642.19,
+        "capitulos":[
+            {
+                "titulo":"Saneamiento y pluviales.",
+                "facturado":0,
+                "unidades":"m2",
+                "cantidad":0,
+                "total":3642.19,
+                "subcapitulos":[
+
+                    {
+                        "titulo":" Acometida a la red general de saneamiento, con rotura de pavimento por medio de compresor, excavación mecánica, tubo de hormigón centrifugado de 25cm de diámetro, relleno y apisonado de zanja con tierra procedente de la excavación, incluso limpieza y transporte de tierras sobrantes a pie de carga.",
+                        "facturado":0,
+                        "unidades":"unidades",
+                        "cantidad":1,
+                        "total":441.51,
+                        "subcapitulos":[]
+                    },
+                    {
+                        "titulo":"Arqueta prefabricada de paso de polipropileno, cuadrada, registrable, de medidas 40x40cm, con conexiones laterales adaptables a tubos de diámetro de 75 a 250 mm, con tapa para enlosar y marco de PVC, totalmente instalada.",
+                        "facturado":0,
+                        "unidades":"unidades",
+                        "cantidad":1,
+                        "total":116.33,
+                        "subcapitulos":[]
+                    },
+                    {
+                        "titulo":"Arqueta prefabricada sifónica de polipropileno, cuadrada, registrable, de medidas 80x55cm, con conexiones laterales adaptables a tubos de diámetro de 160 a 315mm, con tapa rejilla y marco de PVC, totalmente instalada.",
+                        "facturado":0,
+                        "unidades":"unidades",
+                        "cantidad":1,
+                        "total":70.33,
+                        "subcapitulos":[]
+                    },
+                    {
+                        "titulo":"Colector enterrado, realizado con tubo corrugado de PVC para saneamiento, de diámetro 200mm, con incremento del precio del tubo del 30% en concepto de uniones, accesorios y piezas especiales, colocado en zanja de ancho 500+200mm, sobre lecho de arena / grava de espesor 100+200/100mm,sin incluir excavación, relleno de la zanja ni compactación final.",
+                        "facturado":0,
+                        "unidades":"ml",
+                        "cantidad":21.78,
+                        "total":439.64,
+                        "subcapitulos":[]
+                    },
+                    {
+                        "titulo":"Colector enterrado realizado con un tubo liso de PVC para saneamiento, de diámetro 160mm, unión pegada y espesor según la norma UNE EN 1401-I, con incremento del precio del tubo del 30% en concepto de uniones, accesorios y piezas especiales, colocado en zanja de ancho 500+160mm, sobre lecho de arena / grava de espesor 100+160/100mm, sin incluir excavación, relleno de la zanja ni compactación final.  ",
+                        "facturado":0,
+                        "unidades":"ml",
+                        "cantidad":23.75,
+                        "total":669.30,
+                        "subcapitulos":[]
+                    },
+                    {
+                        "titulo":"Colector enterrado realizado con un tubo liso de PVC para saneamiento, de diámetro 110mm, unión pegada y espesor según la norma UNE EN 1401-I, con incremento del precio del tubo del 30% en concepto de uniones, accesorios y piezas especiales, colocado en zanja de ancho 500+110mm, sobre lecho de arena / grava de espesor 100+110/100mm, sin incluir excavación, relleno de la zanja ni compactación final.",
+                        "facturado":0,
+                        "unidades":"ml",
+                        "cantidad":18,
+                        "total":222.98,
+                        "subcapitulos":[]
+                    },
+                    {
+                        "titulo":"Colector suspendido insonorizado de polipropileno, de 110 mm de diámetro, unión con junta elástica., con incremento del precio del tubo del 30% en concepto de uniones, accesorios y piezas especiales.",
+                        "facturado":0,
+                        "unidades":"ml",
+                        "cantidad":40,
+                        "total":658.46,
+                        "subcapitulos":[]
+                    },
+                    {
+                        "titulo":"Bajante interior insonorizada de la red de evacuación de aguas, formada por tubo de polipropileno, de 125 mm de diámetro y 3,4 mm de espesor; unión a presión con junta elástica. Incluso, material auxiliar para montaje y sujeción a la obra, accesorios y piezas especiales.",
+                        "facturado":0,
+                        "unidades":"ml",
+                        "cantidad":30,
+                        "total":521.21,
+                        "subcapitulos":[]
+                    },
+                    {
+                        "titulo":"Bajante interior insonorizada de la red de evacuación de aguas residuales, formada por tubo de polipropileno, de 110 mm de diámetro y 3,4 mm de espesor; unión a presión con junta elástica. Incluso, material auxiliar para montaje y sujeción a la obra, accesorios y piezas especiales. Pluviales.",
+                        "facturado":0,
+                        "unidades":"ml",
+                        "cantidad":20,
+                        "total":305.82,
+                        "subcapitulos":[]
+                    },
+                    {
+                        "titulo":"Caldereta sifónica extensible para cubiertas transitables, según Norma DIN 19599, con cuerpo de PVC y rejilla de polipropileno estabilizado contra radiaciones ultravioleta y choque térmico, salida vertical de 125mm de diámetro, para encolar, preparada para instalación con tela impermeabilizante y velocidad de evacuación de 1.6 l/s, testada según ISO/DIS 9896, incluso acometida de desagüe a red general.",
+                        "facturado":0,
+                        "unidades":"ml",
+                        "cantidad":6,
+                        "total":196.61,
+                        "subcapitulos":[]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "titulo":"Estructura",
+        "total":46105.20,
+        "capitulos":[
+            {
+                "titulo":"Hormigón armado en losa aligerada con elementos huecos de 30cm de canto según sistema patentado TECOPAL según planos, HA 25/B/20/IIa preparado, de consistencia blanda y tamaño máximo del árido 20, con una cuantía media de 33 kg/m2 de acero B 500 S, incluso recortes, separadores, alambre de atado, vibrado y curado del hormigón.",
+                "facturado":0,
+                "unidades":"m2",
+                "cantidad":422.36,
+                "total":42270,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Losa horizontal vista realizada con hormigón HA 25/B/20/IIa de 15cm de espesor con una cuantía media de 13 kg/m2 de acero B 500 S, encofrado tablero fenólico y goterón, vibrado, curado y desencofrado, según EHE-08. ",
+                "facturado":0,
+                "unidades":"m2",
+                "cantidad":2.65,
+                "total":177.72,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Encofrado de poliestireno de densidad 20 kg/m3 con recubrimiento de lámina de PVC, para moldura plana con entrantes de 260x50mm, considerando su amortización en 1 uso, incluso desencofrado. ",
+                "facturado":0,
+                "unidades":"ml",
+                "cantidad":7.21,
+                "total":192.11,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Encofrado de poliestireno de densidad 20 kg/m3 con recubrimiento de lámina de PVC, para moldura saliente de 120x120mm, considerando su amortización en 1 uso, incluso desencofrado.",
+                "facturado":0,
+                "unidades":"ml",
+                "cantidad":8.20,
+                "total":238.93,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Losa inclinada de escalera realizada con hormigón HA 25/B/20/IIa de 15cm de espesor con una cuantía media de 13 kg/m2 de acero B 500 S, para revestir, con formación de peldaños, encofrado, vibrado, curado y desencofrado, según EHE-08.",
+                "facturado":0,
+                "unidades":"m2",
+                "cantidad":22.19,
+                "total":3226.44,
+                "subcapitulos":[]
+            }
+        ]
+    },
+    {
+        "titulo":"Albañilería",
+        "total":48820.84,
+        "capitulos":[
+            {
+                "titulo":"Fábrica   para revestir de 20cm de espesor, realizada con bloques de hormigón de áridos densos de 40x20x20cm, recibidos con mortero de cemento M-5, con juntas de 1cm de espesor, incluso replanteo, nivelación y aplomado, parte proporcional de enjarjes, mermas y roturas y piezas especiales (medio, esquina, etc.), humedecido de las partes en contacto con el mortero, rejuntado y limpieza, considerando un 3% de pérdidas y un 30% de mermas de mortero, según DB SE-F del CTE y NTE/FFB.",
+                "facturado":0,
+                "unidades":"m2",
+                "cantidad":115.95,
+                "total":2381.90,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Fábrica para revestir, de 11.5cm de espesor, realizada con ladrillos cerámicos perforados de 24x11.5x9cm, aparejados a soga y recibidos con mortero de cemento M-5, con juntas de 1cm de espesor, incluso replanteo, nivelación y aplomado, parte proporcional de enjarjes, mermas y roturas, humedecido de las piezas y limpieza, considerando un 3% de pérdidas y un 20% de mermas de mortero, según DB SE-F del CTE y NTE-FFL.",
+                "facturado":0,
+                "unidades":"m2",
+                "cantidad":80.48,
+                "total":1569.49,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Fábrica de una cara vista de 11.5cm de espesor, realizada con ladrillos perforados de 24x11.5x3.5cm, sentados con mortero de cemento M-5, con juntas de 1cm de espesor, aparejados, incluso replanteo, nivelación y aplomado, parte proporcional de enjarjes, mermas y roturas, humedecido de las piezas y limpieza, considerando un 3% en concepto de roturas y un 20% de pérdidas de mortero, según DB SEF del CTE y NTE/FFL.",
+                "facturado":0,
+                "unidades":"m2",
+                "cantidad":138.25,
+                "total":5717.91,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Fábrica para revestir, de 11cm de espesor, realizada con ladrillos cerámicos huecos de 33x16x11cm, aparejados de canto y recibidos con mortero de cemento M-5, con juntas de 1cm de espesor, incluso replanteo, nivelación y aplomado, parte proporcional de enjarjes, mermas y roturas, humedecido de las piezas y limpieza, considerando un 3% de pérdidas y un 30% de mermas de mortero, según DB SE-F del CTE y NTE-FFL.",
+                "facturado":0,
+                "unidades":"m2",
+                "cantidad":547.60,
+                "total":7174.87,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Fábrica para revestir, de 4cm de espesor, realizada con ladrillos cerámicos huecos de 33x16x4cm, aparejados de canto y recibidos con mortero de cemento M-5, con juntas de 1cm de espesor, incluso replanteo, nivelación y aplomado, parte proporcional de enjarjes, mermas y roturas, humedecido de las piezas y limpieza, considerando un 3% de pérdidas y un 30% de mermas de mortero, según DB SE-F del CTE y NTE-FFL.",
+                "facturado":0,
+                "unidades":"m2",
+                "cantidad":33.90,
+                "total":332.36,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Tabique compuesto por una estructura galvanizada de 70mm, con canales como elemento horizontal y montantes como elemento vertical, con una separación entre ejes de 60cm, y doble placa de yeso laminado de 15mm de espesor una placa en cada cara  y lana mineral de 800mm de espesor, listo para pintar, incluso replanteo, preparación, corte y colocación de las placas y estructura soporte, nivelación y aplomado, formación de premarcos, ejecución de ángulos y paso de instalaciones, acabado de juntas, parte proporcional de mermas, roturas, accesorios de fijación y limpieza. ",
+                "facturado":0,
+                "unidades":"m2",
+                "cantidad":256.79,
+                "total":9997.44,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Trasdosado compuesto por una estructura galvanizada de 70mm, con canales como elemento horizontal y montantes como elemento vertical, con una separación entre ejes de 60cm, y una placa de yeso laminado de 15mm de espesor y  lana de fibra de vidrio Ultracoustic R destinada a aislamiento térmico y acústico de 80mm de espesor, listo para pintar, incluso replanteo, preparación, corte y colocación de las placas y estructura soporte, nivelación y aplomado, formación de premarcos, ejecución de ángulos y paso de instalaciones, acabado de juntas, parte proporcional de mermas, roturas, accesorios de fijación y limpieza.",
+                "facturado":0,
+                "unidades":"m2",
+                "cantidad":475.44,
+                "total":19634.90,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Recibido de ducha, faldón tabicado, con ladrillo hueco sencillo, recibido con mortero de cemento y arena de río 1/4, incluso formación de bancada y ejecución de mesetas laterales y enlucido del frente superior con mortero de cemento hidrófugo.",
+                "facturado":0,
+                "unidades":"unidades",
+                "cantidad":4,
+                "total":38.26,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Formación de paellero con ladrillo refractario y bancada completamente chapado con gres porcelánico.",
+                "facturado":0,
+                "unidades":"unidades",
+                "cantidad":1,
+                "total":762.81,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Repercusión por m² de superficie construida de obra, de ayudas de cualquier trabajo de albañilería, necesarias para la correcta ejecución de la instalación de fontanería formada por: acometida, tubo de alimentación, batería de contadores, grupo de presión, depósito, montantes, instalación interior, cualquier otro elemento componente de la instalación, accesorios y piezas especiales, con un grado de complejidad medio, en edificio plurifamiliar, incluida p/p de elementos comunes. Incluso material auxiliar para la correcta ejecución de los trabajos.",
+                "facturado":0,
+                "unidades":"m2",
+                "cantidad":374.98,
+                "total":340.13,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Repercusión por m² de superficie construida de obra, de ayudas de cualquier trabajo de albañilería, necesarias para la correcta ejecución de la infraestructura común de telecomunicaciones (ICT) formada por: acometida, canalizaciones y registro de enlace, recintos, canalizaciones y registros principales y secundarios, registros de terminación de red, canalización interior de usuario, registros de paso y registros de toma, con un grado de complejidad medio, en edificio plurifamiliar, incluida p/p de elementos comunes. Incluso material auxiliar para la correcta ejecución de los trabajos. ",
+                "facturado":0,
+                "unidades":"m2",
+                "cantidad":374.98,
+                "total":259.78,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Repercusión por m² de superficie construida de obra, de ayudas de cualquier trabajo de albañilería, necesarias para la correcta ejecución de la instalación audiovisual formada por: sistema colectivo de captación de señales de TV y radio, sistema de interfonía y/o vídeo (placa de calle, módulo amplificador, módulo pulsador, alimentador de audio, monitor de teléfono y abrepuerta), mecanismos y accesorios, con un grado de complejidad medio, en edificio plurifamiliar, incluida p/p de elementos comunes. Incluso material auxiliar para la correcta ejecución de los trabajos. ",
+                "facturado":0,
+                "unidades":"m2",
+                "cantidad":374.98,
+                "total":189.62,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Repercusión por m² de superficie construida de obra, de ayudas de cualquier trabajo de albañilería, necesarias para la correcta ejecución de la instalación de salubridad formada por: sistema de evacuación (bajantes interiores y exteriores de aguas pluviales y residuales, canalones, botes sifónicos, colectores suspendidos, sistemas de elevación, derivaciones individuales y cualquier otro elemento componente de la instalación), con un grado de complejidad medio, en edificio plurifamiliar, incluida p/p de elementos comunes. Incluso material auxiliar para la correcta ejecución de los trabajos.",
+                "facturado":0,
+                "unidades":"m2",
+                "cantidad":374.98,
+                "total":306.54,
+                "subcapitulos":[]
+            }
+        ]
+    },
+    {
+        "titulo":"Cubiertas",
+        "total":15800.94,
+        "capitulos":[
+            {
+                "titulo":"Cubierta plana, transitable y no ventilada de uso privado, convencional con pavimento fijo sin barrera de vapor, formada por: capa de hormigón celular de espesor comprendido entre 2 y 30cm acabada con una capa de regularización de 1,5cm de mortero de cemento M-5 fratasado, aislamiento térmico formado por paneles de poliestireno extruido (XPS) de 80mm de espesor y K=0.029 W/mºC, capa separadora a base fieltro de fibra de vidrio de 120 gr/m2 dispuesto flotante sobre el aislamiento térmico con simple solapo, impermeabilización mediante membrana monocapa no adherida al soporte constituida por lámina de betún modificado armada con fieltro de poliéster (LBM-40-FP), capa separadora antiadherente formada por film de polietileno de 0,50mm de espesor dispuesto flotante sobre la impermeabilización con simple solapo, incluso limpieza previa del soporte, replanteo, formación de baberos, mimbeles, sumideros y otros elementos especiales con bandas de refuerzo, mermas y solapos. Medida en proyección horizontal.",
+                "facturado":0,
+                "unidades":"m2",
+                "cantidad":117.36,
+                "total":8261.11,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Tejado ventilado sobre forjado horizontal realizado con tabicón de ladrillo hueco de 9cm de espesor con el 25% de huecos, tablero de bardos cerámicos machihembrados de 110x25x3.5cm, capa de regularización de 40mm de espesor de hormigón HNE-15 y un tamaño máximo de árido de 20mm y acabado fratasado, teja cerámica curva de 40x19cm con solape frontal y separación mínima entre cabezas de cobrija de 40mm recibidas con mortero bastardo de cemento y cal hidráulica, aislamiento térmico a base de poliestireno extruido (XPS) de 80mm de espesor y K=0,034 W/mºC dispuesto sobre el forjado entre los apoyos de la cámara de ventilación, incluso limpieza, replanteo, formación de alero, cumbrera, limas y encuentros especiales.",
+                "facturado":0,
+                "unidades":"m2",
+                "cantidad":41.22,
+                "total":4016.14,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Azotea transitable realizada sin barrera de vapor, capa de 11cm hormigón celular para formación de pendientes comprendidas entre 1 <= p <= 5%, capa de regularización con 2cm de espesor de mortero de cemento impermeabilizante, capa separadora con fieltro de fibra de vidrio de 100 gr/m2, impermeabilización con solución monocapa no adherida, tipo PN-1 según normas UNE-104, con lámina tipo LBM-40-FP de betún modificado de 40 gr/dm2 armada con fieltro de poliéster, capa separadora a base de fieltro sintético geotextil de 100 gr/m2 , incluso limpieza previa del soporte, replanteo, formación de baberos, mimbeles, sumideros y otros elementos especiales con bandas de refuerzo colocadas adheridas con soplete previa imprimación, juntas en faldón y capa de protección, mermas y solapos. ",
+                "facturado":0,
+                "unidades":"m2",
+                "cantidad":69.56,
+                "total":3434.15,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Canalón visto de chapa de acero prelacado, de perfil cuadrado, y desarrollo 280mm para evacuación de pluviales, con incremento del precio del tubo del 30% en concepto de uniones, accesorios y piezas especiales en color marron.",
+                "facturado":0,
+                "unidades":"ml",
+                "cantidad":7.21,
+                "total":89.54,
+                "subcapitulos":[]
+            }
+        ]
+    },
+    {
+        "titulo":"Revestimientos",
+        "total":19569.39,
+        "capitulos":[
+            {
+                "titulo":"Enfoscado sin maestrear fratasado, con mortero de cemento M-15 en paramento horizontal y vertical interior, colocación de Mallatex en encuentros, cambios de material y puntos débiles, según NTE-RPE5.",
+                "facturado":0,
+                "unidades":"m2",
+                "cantidad":267.40,
+                "total":3770.76,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Revestimiento con mortero monocapa, previo raseado de mortero de cemento, color a definir, aplicado a llana o mecánicamente, regleado y acabado final 'raspado', en espesor total mínimo de 25 mm. y ejecución de despiece según planos, con junquillos de sección trapecial, i/ ejecución de mochetas y dinteles, preparación de paramentos con malla de fibra de vidrio en uniones de ladrillo y muro de hormigón, colocación y retirada de junquillos, limpieza de polvo residual, empleo de andamiaje homologado y p.p. de costes indirectos, según NTE/RPR-9 y 10. Medido sin deducir huecos. Diseño y color a elegir por D.F.",
+                "facturado":0,
+                "unidades":"m2",
+                "cantidad":155.49,
+                "total":2979.00,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Vierteaguas de gres porcelánico, con goterón, de 20x2cm, tomado con mortero de cemento M-5, incluso rejuntado con lechada de cemento coloreada, eliminación de restos y limpieza. Diseño y color a elegir por D.F.",
+                "facturado":0,
+                "unidades":"ml",
+                "cantidad":43.71,
+                "total":979.23,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Revestimiento cerámico con junta mínima (1.5 - 3mm) realizado con baldosa de gres porcelánico no esmaltado monocolor de 60x30cm, imitación madera, colocado en capa fina con adhesivo cementoso normal (C1) y rejuntado con mortero de juntas cementoso normal (CG1), incluso cortes y limpieza, según NTE/RPA-3 y Guía de la Baldosa Cerámica (Documento Reconocido por la Generalitat DRB 01/06). Incluso rodapié.",
+                "facturado":0,
+                "unidades":"m2",
+                "cantidad":186.01,
+                "total":8086.23,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Chapado con placas de piedra caliza alba, de 18-20mm de espesor, en bruto, tomadas con mortero bastardo de cemento y cal M-5b (1:1:7), incluso rejuntado con lechada de cemento, eliminación de restos y limpieza.",
+                "facturado":0,
+                "unidades":"m2",
+                "cantidad":4.02,
+                "total":101.25,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Remate con 2 piezas de piedra caliza alba, 17cm de alto y 5 cm de ancho, de 30mm de espesor, en bruto, tomadas con mortero bastardo de cemento y cal M-5b (1:1:7), incluso rejuntado con lechada de cemento, eliminación de restos y limpieza. ",
+                "facturado":0,
+                "unidades":"ml",
+                "cantidad":3.35,
+                "total":179.28,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Pavimento cerámico con junta mínima (1.5 - 3mm) realizado con baldosa de gres rústico de 40x40cm, colocado en capa gruesa con mortero de cemento y rejuntado con mortero de juntas cementoso mejorado (CG2), incluso cortes y limpieza, según NTE/RPA-3 y Guía de la Baldosa Cerámica (Documento Reconocido por la Generalitat DRB 01/06), incluso rodapié 8x25. ",
+                "facturado":0,
+                "unidades":"m2",
+                "cantidad":80.80,
+                "total":2784.24,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Cenefa de 10x25cm para alicatado con azulejo con junta (>3 mm), colocada en capa gruesa con mortero de cemento y rejuntada con mortero de juntas cementoso normal (CG1), incluso cortes y limpieza, según Guía de la Baldosa Cerámica (Documento Reconocido por la Generalitat DRB 01/06).",
+                "facturado":0,
+                "unidades":"ml",
+                "cantidad":68.10,
+                "total":689.40,
+                "subcapitulos":[]
+            }
+        ]
+    },
+    {
+        "titulo":"Solados",
+        "total":32824.19,
+        "capitulos":[
+            {
+                "titulo":"Relleno y extendido de gravas con medios manuales incluso compactación, en capas de 25cm de espesor máximo, según NTE/ADZ-12. ",
+                "facturado":0,
+                "unidades":"m3",
+                "cantidad":44.86,
+                "total":1238.97,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Solera de 15cm de espesor, de hormigón en masa HM-20/B/20/I fabricado en central; realizada sobre capa base existente (no incluida en este precio). Incluso curado y vibrado del hormigón con regla vibrante, formación de juntas de hormigonado y plancha de poliestireno expandido de 2cm de espesor para la ejecución de juntas de contorno, colocada alrededor de cualquier elemento que interrumpa la solera, como pilares y muros, terminación mediante reglado, según EHE-08.",
+                "facturado":0,
+                "unidades":"m2",
+                "cantidad":187.77,
+                "total":2771.34,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Impermeabilización de solera, mediante membrana impermeabilizante no adherida, compuesta por lámina de policloruro de vinilo (PVC), de 1.5 mm de espesor, sin armadura, con los solapos soldados con aire caliente, incluso limpieza previa del soporte, mermas y solapos, según DB HS-1 del CTE. ",
+                "facturado":0,
+                "unidades":"m2",
+                "cantidad":187.77,
+                "total":1298.61,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Aislamiento termoacústico en suelos bajo pavimento de uso doméstico, con poliestireno extruido (XPS) de 60mm de espesor, mecanizado lateral recto y superficie lisa, con una conductividad térmica de 0.034 W/mK y resistencia térmica 1.80 m2K/W, reacción al fuego Euroclase E, código de designación XPS-EN 13164 - T1-CS(10/Y)250-DLT(1)5-CC(2/1,5/50)60, cubierto por un film plástico de polietileno, incluso limpieza del soporte y corte.",
+                "facturado":0,
+                "unidades":"m2",
+                "cantidad":140.20,
+                "total":1728.27,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Base de embaldosado de mortero armado de 8cm de espesor, Tipo 4 según Guía de la Baldosa Cerámica (DRB 01/06).",
+                "facturado":0,
+                "unidades":"m2",
+                "cantidad":140.20,
+                "total":1591.88,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Pavimento cerámico con junta mínima (1.5 - 3mm) realizado con baldosa de gres porcelánico no esmaltado monocolor de 40x40cm, colocado en capa fina con adhesivo cementoso normal (C1) y rejuntado con mortero de juntas cementoso normal (CG1), incluso cortes y limpieza, según NTE/RPA-3 y Guía de la Baldosa Cerámica (Documento Reconocido por la Generalitat DRB 01/06). Incluso rodapié del mismo material 40x7cm.",
+                "facturado":0,
+                "unidades":"m2",
+                "cantidad":117.26,
+                "total":5186.65,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Pavimento cerámico con junta mínima (1.5 - 3mm) realizado con baldosa de gres porcelánico no esmaltado imitación madera de 90x15cm,(coste baldosa 12 m4) colocado en capa fina con adhesivo cementoso normal (C1) y rejuntado con mortero de juntas cementoso normal (CG1), incluso cortes y limpieza, según NTE/RPA-3 y Guía de la Baldosa Cerámica (Documento Reconocido por la Generalitat DRB 01/06).",
+                "facturado":0,
+                "unidades":"m2",
+                "cantidad":175.29,
+                "total":7540.28,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Suelo flotante para aislamiento acústico al ruido de impacto compuesto por lámina flexible de polietileno reticulado de 5 mm de espesor y densidad de 30 kg/m3 y capa de compresión de mortero armado de 5 cm de espesor como soporte del pavimento, sobre forjado previamente limpio, seco y regularizado, de masa por unidad de superficie igual o menor que 350 kg/m2 (no incluido), incluso parte proporcional de barrera impermeable entre capa de mortero y aislante, solapes entre láminas, cinta de sellado de juntas y banda de remonte en todos los encuentros con paramentos verticales para evitar la unión rígida entre éstos y la solera. Reducción del nivel global de presión de ruido de impactos de 20 dB y mejora del índice global de reducción acústica, ponderado A, de 2 dBA, según solución S01 del CEC del CTE.",
+                "facturado":0,
+                "unidades":"m2",
+                "cantidad":201.70,
+                "total":2673.41,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Pavimento cerámico con junta mínima (1.5 - 3mm) realizado con baldosa de gres rústico de 40x40cm,(coste baldosa 12 m2) o colocado en capa gruesa con mortero de cemento y rejuntado con mortero de juntas cementoso mejorado (CG2), incluso cortes y limpieza, según NTE/RPA-3 y Guía de la Baldosa Cerámica (Documento Reconocido por la Generalitat DRB 01/06), incluso rodapié 8x25.",
+                "facturado":0,
+                "unidades":"m2",
+                "cantidad":167.17,
+                "total":5760.40,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Solado de azoteas y terrazas, con baldosín catalán de 20x10cm y mortero de cemento, incluso mermas, enlechado de juntas y limpieza.",
+                "facturado":0,
+                "unidades":"m2",
+                "cantidad":19.75,
+                "total":271.68,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Pavimento realizado con baldosa de mortero hidrófugo de 40x20x4cm, color gris, colocada sobre capa de nivelación de mortero de cemento M-10, con una pendiente de desagüe no inferior al 2%, formación de maestras de mortero de cemento de 8x15cm, separadas entre si 30cm, relleno de espacios entre maestras con grava, incluso relleno de juntas con lechada de cemento, eliminación de restos y limpieza, según NTE/RSR-5.",
+                "facturado":0,
+                "unidades":"m2",
+                "cantidad":7,
+                "total":50.57,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Bordillo de hormigón de 10x20x50cm sobre lecho de hormigón HM 15/B/20/IIa rejuntado con mortero de cemento M-5.",
+                "facturado":0,
+                "unidades":"ml",
+                "cantidad":1,
+                "total":26.63,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Revestimiento de peldaño con gres porcelánico, con pieza huella de máximo sin junta de 1.20m en una sola pieza, tabica de 15cm, cara pulida, longitud menor de 1.20m, tomados con mortero de cemento M-5, incluso relleno de juntas con lechada de cemento coloreada con la misma tonalidad de las piezas, eliminación de restos y limpieza, según NTE/RSR-19. Incluso zanquín a ambos lados según sea necesario.",
+                "facturado":0,
+                "unidades":"ml",
+                "cantidad":35.20,
+                "total":1254.67,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Revestimiento de peldaño con gres porcelánic a dos piezas, con huella de >1.70m, cara y cantos pulidos, tabica de 15cm, cara pulida, longitud mayor de 1.70m, tomados con mortero de cemento M-5, incluso relleno de juntas con lechada de cemento coloreada con la misma tonalidad de las piezas, eliminación de restos y limpieza, según NTE/RSR-19. Incluso zanquín a ambos lados según sea necesario.",
+                "facturado":0,
+                "unidades":"ml",
+                "cantidad":12,
+                "total":610.68,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Revestimiento de peldaño de material cerámico tipo gres exterior en una sola pieza, de 31cm de huella y 17cm de tabica, con un espesor de 3cm, suministradas en piezas de hasta 1.10m de longitud, tomadas con mortero de cemento M-5, incluso relleno de juntas con lechada de cemento coloreada con la misma tonalidad de las piezas, eliminación de restos y limpieza, según NTE/RSR-21. Incluso zanquín a ambos lados según sea necesario.",
+                "facturado":0,
+                "unidades":"m2",
+                "cantidad":19.80,
+                "total":339.48,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Pavimento de baldosas de gres procelanico 60x30x2cm de espesor, colocadas sobre capa de arena de 2cm de espesor mínimo, tomadas con mortero de cemento M-5, incluso rejuntado con lechada de cemento con la misma tonalidad de las baldosas, eliminación de restos y limpieza, acabado pulido vitrificado, según NTE/RSR-1.",
+                "facturado":0,
+                "unidades":"m2",
+                "cantidad":16.60,
+                "total":480.67,
+                "subcapitulos":[]
+            }
+        ]
+    },
+    {
+        "titulo":"Falsos techos",
+        "total":15639.68,
+        "capitulos":[
+            {
+                "titulo":"Falso techo desmontable de escayola aligerada fisurada, en placas de 60x60 cm., suspendido de perfilería vista lacada en blanco de 24 mm. de ancho, i/p.p. de accesorios de fijación, montaje y desmontaje de andamios, instalado s/NTE-RTP-17, medido deduciendo huecos superiores a 2 m2.",
+                "facturado":0,
+                "unidades":"m2",
+                "cantidad":5.54,
+                "total":170.48,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Falso techo continúo formado con placa de yeso de 12.5mm, de borde afinado, sobre estructura longitudinal de maestra 60x27x4mm, y piezas transversales del mismo perfil y al mismo nivel, de 1.14m, anclaje con varilla cuelgue, incluso parte proporcional de piezas de cuelgue, nivelación y tratamiento de juntas.",
+                "facturado":0,
+                "unidades":"m2",
+                "cantidad":184.55,
+                "total":8604.63,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Aislamiento térmico sobre falso techo decorativo, con lana mineral (MW) de 60mm de espesor, con un velo de vidrio negro por una de sus caras, con una conductividad térmica de 0.034 W/mK y resistencia térmica 1.75 m2K/W, reacción al fuego Euroclase A2-s1, d0, código de designación MW-EN 13162 - T1, incluso parte proporcional de elementos de sujeción y corte del aislante.",
+                "facturado":0,
+                "unidades":"m2",
+                "cantidad":114.32,
+                "total":1405.77,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Falso techo continuo formado con placa de yeso con alma de yeso hidrofugado de 12.5mm, para zonas húmedas, de borde afinado, sobre estructura longitudinal de maestra 60x27x4mm, y piezas transversales del mismo perfil y al mismo nivel, de 1.14m, anclaje con varilla cuelgue, incluso parte proporcional de piezas de cuelgue, nivelación y tratamiento de juntas.",
+                "facturado":0,
+                "unidades":"m2",
+                "cantidad":114.32,
+                "total":5458.80,
+                "subcapitulos":[]
+            }
+        ]
+    },
+    {
+        "titulo":"Electricidad",
+        "total":6334.30,
+        "capitulos":[
+            {
+                "titulo":"Piqueta de puesta de tierra formada por electrodo de acero recubierto de cobre de diámetro 14mm y longitud 1.5m, incluso hincado y conexiones, según el Reglamento Electrotécnico de Baja Tensión 2002.",
+                "facturado":0,
+                "unidades":"unidades",
+                "cantidad":20,
+                "total":129.75,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Línea principal de puesta a tierra instalada con conductor de cobre desnudo recocido de 16mm2 de sección, empotrada, incluso parte proporcional de pequeño material y piezas especiales, ayudas de albañilería y conexión al punto de puesta a tierra, medida desde la primera derivación hasta el punto de puesta a tierra, según el Reglamento Electrotécnico de Baja Tensión 2002.",
+                "facturado":0,
+                "unidades":"ml",
+                "cantidad":52,
+                "total":112.39,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Arqueta de conexión de puesta a tierra de 38x50x25cm, formada por muro aparejado de ladrillo macizo de 12cm de espesor, con juntas de mortero M-5 de 1cm de espesor enfoscado interior con mortero de cemento M-15, solera de hormigón en masa HNE-15/B/40 y tapa de hormigón armado HA 25/B/20/IIa, con parrilla formada por redondos de diámetro 8mm cada 10cm y refuerzo perimetral formado por perfil de acero laminado L 60.6, soldado a la malla con cerco de perfil L 70.7 y patillas de anclaje en cada uno de sus ángulos, tubo de fibrocemento ligero de diámetro 60 mm y punto de puesta a tierra, incluso conexiones, sin incluir excavación, relleno y transporte de tierras sobrantes a vertedero, según el Reglamento Electrotécnico de Baja Tensión 2002.",
+                "facturado":0,
+                "unidades":"unidades",
+                "cantidad":1,
+                "total":40.59,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Caja general de protección y medida tipo CPM-3 formada por un módulo aislante y precintable para 2 contadores monofásicos, 2 contadores trifásicos o 1 contador de activa, un módulo de reactiva y reloj y un módulo de acometida tipo esquema 10 de bases fusibles 250/400 A, incluso puesta a tierra del neutro con cable RV 0.6/1 kV de sección 50mm2 y piqueta de cobre, totalmente instalada en hornacina de obra civil no incluida, conexionada y en correcto estado de funcionamiento, según NT-IEEV/89 y el Reglamento Electrotécnico de Baja Tensión 2002.",
+                "facturado":0,
+                "unidades":"unidades",
+                "cantidad":1,
+                "total":173.55,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Instalación eléctrica completa en vivienda de 4 dormitorios y 3 baños, con una electrificación elevada de 9200 W, compuesta por cuadro general de distribución con dispositivos de mando, maniobra y protección general mediante 1 PIA 2x40 A y 2 interruptores diferenciales 2x40A/30 mA para 7 circuitos (1 para iluminación, 1 para tomas generales y frigorífico, 1 para tomas de corriente en baños y auxiliares de cocina, 1 para lavadora, lavavajillas y termo, 1 para cocina y horno, 1 para tomas de aire acondicionado y 1 para secadora); 1 timbre zumbador, 1 punto de luz con 2 encendidos conmutados y 1 base de 16 A en el vestíbulo; 2 puntos de luz con 4 encendidos conmutados, 5 bases de 16 A y 2 bases de 16 A para aire acondicionado en salón-comedor de hasta 30m2; 2 puntos de luz con 6 encendidos, 4 conmutados y 2 cruzamientos, 3 bases de 16 A y base de 16 A para aire acondicionado en dormitorio principal de hasta 18m2; 1 puntos de luz con 2 encendidos conmutados, 2 bases de 16 A y 1 base de 16 A para aire acondicionado en dormitorios de hasta 12m2; 1 punto de luz con 1 encendido simple y 1 base de 16 A en baños; 1 punto de luz con 2 encendidos conmutados y 1 base de 16 A en el pasillo; 1 punto de luz con 2 encendidos conmutados, 1 base de 25 A para cocina/horno y 8 bases de 16 A para extractor; frigorífico, lavadora, lavavajillas, termo y auxiliares y 1 base de 16 A para secadora en cocina de hasta 10m2 y 1 punto de luz con 1 encendido simple en terraza; realizada con mecanismos de calidad media y con cable de cobre unipolar de diferentes secciones colocado bajo tubo flexible corrugado de doble capa de PVC de distintos diámetros, totalmente instalada, conectada y en correcto estado de funcionamiento, según NT-IEEV/89 y el Reglamento Electrotécnico de Baja Tensión 2002.",
+                "facturado":0,
+                "unidades":"unidades",
+                "cantidad":1,
+                "total":5421.28,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Instalación eléctrica empotrada en baño en vivienda con una electrificación elevada (9200 W), compuesta por 1 punto de luz con 1 encendido simple y 1 toma de corriente 2P+T de 16 A para uso general, realizada con mecanismos de calidad media y con cable de cobre unipolar de diferentes secciones colocado bajo tubo flexible corrugado de doble capa de PVC de distintos diámetros, totalmente instalada, conectada y en correcto estado de funcionamiento, según NT-IEEV/89 y el Reglamento Electrotécnico de Baja Tensión 2002.",
+                "facturado":0,
+                "unidades":"unidades",
+                "cantidad":2,
+                "total":169.91,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Instalación eléctrica empotrada en garaje de hasta 10 m2 en vivienda con una electrificación elevada (9200 W), compuesta por 1 punto de luz con 2 encendidos conmutados y 1 toma de corriente 2P+T de 16 A para uso general, realizada con mecanismos estancos de calidad media y con cable de cobre unipolar de diferentes secciones colocado bajo tubo flexible corrugado de doble capa de PVC de distintos diámetros, totalmente instalada, conectada y en correcto estado de funcionamiento, según NT-IEEV/89 y el Reglamento Electrotécnico de Baja Tensión 2002.",
+                "facturado":0,
+                "unidades":"unidades",
+                "cantidad":1,
+                "total":51.92,
+                "subcapitulos":[]
+            },
+            {
+                "titulo":"Instalación eléctrica empotrada en terraza en vivienda con una electrificación elevada (9200 W), compuesta por 1 punto de luz con 1 encendido simple, realizada con mecanismos de calidad media y con cable de cobre unipolar de diferentes secciones colocado bajo tubo flexible corrugado de doble capa de PVC de distintos diámetros, totalmente instalada, conectada y en correcto estado de funcionamiento, según NT-IEEV/89 y el Reglamento Electrotécnico de Baja Tensión 2002.",
+                "facturado":0,
+                "unidades":"unidades",
+                "cantidad":4,
+                "total":234.81,
+                "subcapitulos":[]
+            }
+        ]
+    },
+    {
+        "titulo":"Fontaneria",
+        "total":4600,
+        "capitulos":[
+            {
+                "titulo":"Instalación de fontanería con tubería de multicapa empotrada por pared, forrada con corrugado por falso techo, aislando el acs y la recirculación con aislamiento de Armaflex, para la alimentación de 5 cuartos de baño, cocina, paellero terraza 2ª planta, fregadero en terraza planta baja, grifos de servicio, servicio manguera en terraza planta baja, 2ª planta y azotea. Emplazamiento contador y acometida general de agua fría, colocando llaves de corte fría y caliente en todas las zonas húmedas.",
+                "facturado":0,
+                "unidades":"unidades",
+                "cantidad":1,
+                "total":4600,
+                "subcapitulos":[]
+            }
+        ]
+    },
+    {
+        "titulo":"Sanitarios y griferia",
+        "total":8405.92,
+        "capitulos":[
+            {
+                "titulo":"Aparatos sanitarios",
+                "facturado":0,
+                "unidades":"unidades",
+                "cantidad":1,
+                "total":6028.48,
+                "subcapitulos":[
+                    {
+                        "titulo":"Plato de ducha acrílica de dimensiones 130/150x80cm, de forma cuadrada/rectangular, en blanco, color o mate, con fondo antideslizante y con juego de desagüe, incluso válvula desagüe de 1 1/2, sifón y tubo, colocado y con ayudas de albañilería. ",
+                        "facturado":0,
+                        "unidades":"unidades",
+                        "cantidad":4,
+                        "total":757,
+                        "subcapitulos":[]
+                    },
+                    {
+                        "titulo":"Tanque bajo de porcelana vitrificada en color blanco, calidad estándar, con tapa y mecanismo de pulsador doble para descarga, de 3/6 litros de capacidad, totalmente instalado, comprobado y en correcto funcionamiento. Modelo Dama de Roca. ",
+                        "facturado":0,
+                        "unidades":"unidades",
+                        "cantidad":5,
+                        "total":2850,
+                        "subcapitulos":[]
+                    },
+                    {
+                        "titulo":"Taza inodoro para tanque bajo, de porcelana vitrificada blanca, con asiento y tapa lacados y bisagras de acero inoxidable, calidad estándar, juego de fijación, codo y enchufe de unión, colocada y con ayudas de albañilería. Modelo Dama de Roca. ",
+                        "facturado":0,
+                        "unidades":"unidades",
+                        "cantidad":5,
+                        "total":0,
+                        "subcapitulos":[]
+                    },
+                    {
+                        "titulo":"Bidé de porcelana vitrificada en color blanco, tapa lacada y bisagras de acero inoxidable, calidad estándar, con juego de fijación, incluso válvula desagüe de 1 1/2, sifón y tubo, colocado y con ayudas de albañilería. Modelo Dama de Roca.",
+                        "facturado":0,
+                        "unidades":"unidades",
+                        "cantidad":2,
+                        "total":714,
+                        "subcapitulos":[]
+                    },
+                    {
+                        "titulo":"Lavabo de 800x530mm mural, sin pedestal, de porcelana vitrificada blanca, con juego de anclajes para fijación, incluso válvula desagüe de 1 1/2, sifón y tubo, colocado y con ayudas de albañilería. Modelo Dama de Roca.",
+                        "facturado":0,
+                        "unidades":"unidades",
+                        "cantidad":1,
+                        "total":154,
+                        "subcapitulos":[]
+                    },
+                    {
+                        "titulo":"Lavabo de 560x420mm mural, sin pedestal, de porcelana vitrificada blanca, con juego de anclajes para fijación, incluso válvula desagüe de 1 1/2, sifón y tubo, colocado y con ayudas de albañilería. Modelo Dama de Roca. ",
+                        "facturado":0,
+                        "unidades":"unidades",
+                        "cantidad":4,
+                        "total":588,
+                        "subcapitulos":[]
+                    },
+                    {
+                        "titulo":"Fregadero de fibra de vidrio de 99x49cm, con dos cubetas cuadradas, recogedor, válvulas desagüe de 2 1/2´´, dos orificios insinuados, cadenilla y tapón, sifón y tubo, acabado en blanco o color, colocado y con ayudas de albañilería.",
+                        "facturado":0,
+                        "unidades":"unidades",
+                        "cantidad":1,
+                        "total":760.65,
+                        "subcapitulos":[]
+                    },
+                    {
+                        "titulo":"Fregadero de gres prefabricado de dimensiones 500x500mm, con una cubeta, en color blanco, válvulas desagüe de 3 1/2, dos orificios insinuados, cadenilla, tapón, sifón y tubo, colocado y con ayudas de albañilería.",
+                        "facturado":0,
+                        "unidades":"unidades",
+                        "cantidad":2,
+                        "total":212.07,
+                        "subcapitulos":[]
+                    }
+
+                ]
+            },
+            {
+                "titulo":"Griferia y valvuleria",
+                "facturado":0,
+                "unidades":"unidades",
+                "cantidad":1,
+                "total":2377.44,
+                "subcapitulos":[
+                    {
+                        "titulo":"Mezclador monobloque para bañera o ducha, monomando, calidad estándar, acabado cromado, mezclador exterior, con ducha teléfono flexible de 1.50m de longitud y soporte articulado, totalmente instalado, comprobado y en correcto funcionamiento. Modelo L20 de Roca.",
+                        "facturado":0,
+                        "unidades":"unidades",
+                        "cantidad":4,
+                        "total":616,
+                        "subcapitulos":[]
+                    },
+                    {
+                        "titulo":"Mezclador monobloque para lavabo, monomando, calidad estándar, de repisa, acabado cromado, caño central con aireador, desagüe automático y enlaces de alimentación flexibles, totalmente instalado, comprobado y en correcto funcionamiento. Modelo L20 de Roca.",
+                        "facturado":0,
+                        "unidades":"unidades",
+                        "cantidad":5,
+                        "total":735,
+                        "subcapitulos":[]
+                    },
+                    {
+                        "titulo":"Mezclador para fregadero, monomando, calidad estándar, de repisa, acabado cromado, caño alto giratorio con aireador y enlaces de alimentación flexibles, totalmente instalado y comprobado. Modelo L20 de Roca.",
+                        "facturado":0,
+                        "unidades":"unidades",
+                        "cantidad":3,
+                        "total":519,
+                        "subcapitulos":[]
+                    },
+                    {
+                        "titulo":"Grifito corte de agua para lavadora o lavavajillas, convencional, de pared, acabado cromado y enlaces de alimentación flexibles, totalmente instalado y comprobado. Modelo L20 de Roca.",
+                        "facturado":0,
+                        "unidades":"unidades",
+                        "cantidad":7,
+                        "total":213.44,
+                        "subcapitulos":[]
+                    },
+                    {
+                        "titulo":"Mezclador monobloque para bidé, monomando, calidad estándar, acabado cromado, con regulador de chorro a rótula, y enlaces de alimentación flexibles, totalmente instalado y comprobado. Modelo L20 de Roca.",
+                        "facturado":0,
+                        "unidades":"unidades",
+                        "cantidad":2,
+                        "total":294,
+                        "subcapitulos":[]
+                    }
+
+                ]
+            }
+        ]
+    },
+    {
+        "titulo":"",
+        "total":0,
+        "capitulos":[
+            {
+                "titulo":"",
+                "facturado":0,
+                "unidades":"",
+                "cantidad":0,
+                "total":0,
+                "subcapitulos":[]
+            }
+        ]
+    },
+    {
+        "titulo":"",
+        "total":0,
+        "capitulos":[
+            {
+                "titulo":"",
+                "facturado":0,
+                "unidades":"",
+                "cantidad":0,
+                "total":0,
+                "subcapitulos":[]
+            }
+        ]
+    },
+    {
+        "titulo":"",
+        "total":0,
+        "capitulos":[
+            {
+                "titulo":"",
+                "facturado":0,
+                "unidades":"",
+                "cantidad":0,
+                "total":0,
+                "subcapitulos":[]
+            }
+        ]
+    },
+    {
+        "titulo":"",
+        "total":0,
+        "capitulos":[
+            {
+                "titulo":"",
+                "facturado":0,
+                "unidades":"",
+                "cantidad":0,
+                "total":0,
+                "subcapitulos":[]
+            }
+        ]
+    },
+    {
+        "titulo":"",
+        "total":0,
+        "capitulos":[
+            {
+                "titulo":"",
+                "facturado":0,
+                "unidades":"",
+                "cantidad":0,
+                "total":0,
+                "subcapitulos":[]
+            }
+        ]
+    },
+    {
+        "titulo":"",
+        "total":0,
+        "capitulos":[
+            {
+                "titulo":"",
+                "facturado":0,
+                "unidades":"",
+                "cantidad":0,
+                "total":0,
+                "subcapitulos":[]
+            }
+        ]
+    },
+    {
+        "titulo":"",
+        "total":0,
+        "capitulos":[
+            {
+                "titulo":"",
+                "facturado":0,
+                "unidades":"",
+                "cantidad":0,
+                "total":0,
+                "subcapitulos":[]
+            }
+        ]
+    },
+    {
+        "titulo":"",
+        "total":0,
+        "capitulos":[
+            {
+                "titulo":"",
+                "facturado":0,
+                "unidades":"",
+                "cantidad":0,
+                "total":0,
+                "subcapitulos":[]
+            }
+        ]
+    },
+    {
+        "titulo":"",
+        "total":0,
+        "capitulos":[
+            {
+                "titulo":"",
+                "facturado":0,
+                "unidades":"",
+                "cantidad":0,
+                "total":0,
+                "subcapitulos":[]
+            }
+        ]
+    },
+    {
+        "titulo":"",
+        "total":0,
+        "capitulos":[
+            {
+                "titulo":"",
+                "facturado":0,
+                "unidades":"",
+                "cantidad":0,
+                "total":0,
+                "subcapitulos":[]
+            }
+        ]
+    },
+    {
+        "titulo":"",
+        "total":0,
+        "capitulos":[
+            {
+                "titulo":"",
+                "facturado":0,
+                "unidades":"",
+                "cantidad":0,
+                "total":0,
+                "subcapitulos":[]
+            }
+        ]
+    },
+    {
+        "titulo":"",
+        "total":0,
+        "capitulos":[
+            {
+                "titulo":"",
+                "facturado":0,
+                "unidades":"",
+                "cantidad":0,
+                "total":0,
+                "subcapitulos":[]
+            }
+        ]
+    }
+]
